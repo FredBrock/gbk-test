@@ -3,7 +3,9 @@
 -- 鏂囦欢缂栫爜锛欸B18030
 -- 鍒涘缓鏃堕棿锛�2024骞�
 -- ======================================
-
+-- 正常的文字
+-- 正常的文字
+-- 正常的文字
 -- 鍒涘缓鍛樺伐淇℃伅琛�
 CREATE TABLE employees (
     emp_id INT PRIMARY KEY AUTO_INCREMENT COMMENT '鍛樺伐缂栧彿',
